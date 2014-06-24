@@ -1,0 +1,118 @@
+body
+{
+	width: 100%;
+	text-align: center;
+	font-size:16px;
+	font-family: Arial;
+}
+header
+{
+	background: white;
+	height: 100%;
+}
+header img
+{
+	width: 95%;
+	max-width: 400px;
+	border-radius: 10px;
+	border:5px solid white;
+	background: white;
+	margin-top: 3px;
+}
+nav ul
+{
+	margin: 0;
+	padding: 0;
+	background: #0b8b71;
+}
+nav ul li
+{
+	display: inline-block;
+	list-style-type: none;
+	vertical-align: top;
+	background:#d25656;
+	padding: 1em;
+	width: 95%;
+	max-width: 100px;
+	color: white;
+	font-size: 18px;
+	margin:0 .5em;
+}
+.home
+{
+	background: #0b8b71;
+	width: 100%;
+	position: relative;
+}
+.home img
+{
+	width: 95%;
+	max-width: 700px;
+	margin-top: 5em;
+}
+.pasto
+{
+	background: green;
+	background:url(../img/pasto.png)repeat-x;
+	background-position: bottom;
+	background-size: 150px;
+}
+.galeria
+{
+	background: #d25656;
+	padding: 50px 0;
+}
+.galeria h2
+{
+	font-size: 30px;
+	color: white;
+	padding-top:20px;
+	margin: 0;
+}
+.galeria p
+{
+	width: 95%;
+	max-width: 500px;
+	display: inline-block;
+	vertical-align: top;
+	color: white;
+	text-align: left;
+	font-size: 20px;
+}
+.galeria img
+{
+	width: 95%;
+	max-width: 400px;
+	display: inline-block;
+	vertical-align: top;
+}
+#hospedaje
+{
+	background: #82b4ff;
+}
+#hospedaje img
+{
+	max-width: 250px;
+}
+#visitanos
+{
+	background:#0b8b71;
+}
+#visitanos img
+{
+	width: 80%;
+	max-width: 300px;
+}
+footer
+{
+	background: #787878;
+	height: 100px;
+	text-align: center;
+}
+h6
+{
+	margin: 0;
+	padding: 30px;
+	font-size: 16px;
+
+}
